@@ -23,6 +23,36 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 
 ## DOM
 
+## Requisições *rest*
+
+### Rota
+
+### Recurso
+
+### Métodos
+
+- **GET**
+- **POST**
+- **PUT**
+- **DELETE**
+
+### Parametros
+
+- **Query**
+- **Route**
+
+### Body
+
+### Resposta
+
+## Driver Nativo
+
+## Query Builder
+
+## ORM (Object Relational Mapping)
+
+## MVC (Model View Controller)
+
 # Templates
 
 - [ReactJs] typescript
@@ -34,6 +64,8 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - [Super Set] TypeScript
 - Figma
 - Yarn
+- Insomnia
+- Beekeeper Studio
 
 # Libraries
 
@@ -41,3 +73,12 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - React-Icons
 - Reacr-Router-Dom (@types Reacr-Router-Dom)
 - React-Leaflet (@types React-Leaflet)
+- Express (@types/express)
+- Typescript
+- Ts-node-dev
+- typeorm
+- sqlite3
+- multer (@types/multer)
+- Express-async-errors
+- Yup (@types/yup)
+- Cors (@types/cors)
