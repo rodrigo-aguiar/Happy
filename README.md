@@ -53,6 +53,18 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 
 ## MVC (Model View Controller)
 
+## Abstração de componentes
+
+## Conceitos do react
+
+### Componentes
+
+### Propriedades
+
+### Estado
+
+## React-Hooks
+
 # Templates
 
 - [ReactJs] typescript
@@ -82,3 +94,4 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - Express-async-errors
 - Yup (@types/yup)
 - Cors (@types/cors)
+- Axios
