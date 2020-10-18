@@ -65,6 +65,20 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 
 ## React-Hooks
 
+## Antes do React-Native
+
+### Objective-C
+
+### Swift
+
+## Soluções Multiplataforma *Mobile*
+
+### React-Native
+
+# Fonts
+
+- Nunito
+
 # Templates
 
 - [ReactJs] typescript
@@ -78,6 +92,7 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - Yarn
 - Insomnia
 - Beekeeper Studio
+- Expo
 
 # Libraries
 
@@ -95,3 +110,9 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - Yup (@types/yup)
 - Cors (@types/cors)
 - Axios
+
+## Expo
+
+- react-native-maps
+- expo-font
+- react-navigation
