@@ -116,3 +116,4 @@ Aplicação para cadastro de orfanatos com o intuíto de incentivar as pessoas a
 - react-native-maps
 - expo-font
 - react-navigation
+- expo-image-picker
